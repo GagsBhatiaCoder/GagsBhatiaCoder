@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @GagsBhatiaCoder
 - 👀 I’m interested in a front-end developer role.
-- 🌱 I’m currently learning React.js.
+- 🌱 I’m currently working on React.js.
 - 💞️ I’m looking for an opportunity to collaborate with a team and showcase my skills.
 - 📫 You can reach me on Phone- +918979266475  Email-dm.gaganbhatia@gmail.com.
 
