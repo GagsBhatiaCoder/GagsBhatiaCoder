@@ -6,7 +6,7 @@ Frontend Developer
 
 Frontend Developer skilled in React, JavaScript, HTML, CSS, and Bootstrap, focused on crafting intuitive, user-centered web applications. Passionate about creating seamless user experiences and writing clean, maintainable code. Currently expanding knowledge in backend technologies, including MySQL and Firebase, to become a more versatile developer.
 
-*   🌍  I'm based in India
+*   🌍  I'm based in Jaipur
 *   🖥️  See my portfolio at [MyPortfolio](http://gags-portfolio.netlify.app/)
 *   ✉️  You can contact me at [dm.gaganbhatia@gmail.com](mailto:dm.gaganbhatia@gmail.com)
 *   🚀  I'm currently working on [Legal Service](http://legalresolver.com)
