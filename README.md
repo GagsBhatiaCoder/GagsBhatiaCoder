@@ -9,7 +9,7 @@ Frontend Developer skilled in React, JavaScript, HTML, CSS, and Bootstrap, focus
 *   🌍  I'm based in Jaipur
 *   🖥️  See my portfolio at [MyPortfolio](http://gags-portfolio.netlify.app/)
 *   ✉️  You can contact me at [dm.gaganbhatia@gmail.com](mailto:dm.gaganbhatia@gmail.com)
-*   🚀  I'm currently working on [Legal Service](http://legalresolver.com)
+*   🚀  I'm currently working on [Legal Service Project](http://legalresolver.com)
 *   🧠  I'm learning React Native
 *   ⚡  Driven to turn opportunities into achievements.
   
